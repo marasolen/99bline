@@ -1,0 +1,82 @@
+{
+    "UBC": {
+        "name": "UBC Exchange",
+        "position": ,
+    },
+    "AR": {
+        "name": "Allison Rd.",
+        "position": ,
+    },
+    "SS": {
+        "name": "Sasamat St.",
+        "position": ,
+    },
+    "AS": {
+        "name": "Alma St.",
+        "position": ,
+    },
+    "McS": {
+        "name": "Macdonald St.",
+        "position": ,
+    },
+    "ArS": {
+        "name": "Arbutus St.",
+        "position": ,
+    },
+    "GS": {
+        "name": "Granville St.",
+        "position": ,
+    },
+    "WS": {
+        "name": "Willow St.",
+        "position": ,
+    },
+    "BCH": {
+        "name": "Broadway - City Hall",
+        "position": ,
+    },
+    "QS": {
+        "name": "Quebec St.",
+        "position": ,
+    },
+    "MS": {
+        "name": "Main St.",
+        "position": ,
+    },
+    "KW": {
+        "name": "Kingsway St.",
+        "position": ,
+    },
+    "ScS": {
+        "name": "Scotia St.",
+        "position": ,
+    },
+    "FS": {
+        "name": "Fraser St.",
+        "position": ,
+    },
+    "CD": {
+        "name": "Clark Dr.",
+        "position": ,
+    },
+    "CB": {
+        "name": "Commercial - Broadway",
+        "position": ,
+    },
+    "BD": {
+        "name": "Boundary",
+        "position": ,
+    },
+    "BM": {
+        "name": "Brentwood Mall",
+        "position": ,
+    },
+    "AuR": {
+        "name": "Austin Rd.",
+        "position": ,
+    },
+    "LM": {
+        "name": "Loughheed Mall",
+        "position": ,
+    },
+}

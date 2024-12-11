@@ -1,0 +1,123 @@
+[
+    {
+        "year": 1996,
+        "stops": [
+            "UBC",
+            "AR",
+            "AS",
+            "McS",
+            "GS",
+            "WS",
+            "BCH",
+            "MS",
+            "CB",
+            "BD",
+            "BW",
+            "AuR",
+            "LM"
+        ]
+    },
+    {
+        "year": 1997,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "GS",
+            "WS",
+            "BCH",
+            "MS",
+            "CD",
+            "CB",
+            "BD",
+            "BW",
+            "AuR",
+            "LM"
+        ]
+    },
+    {
+        "year": 2002,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "GS",
+            "WS",
+            "BCH",
+            "MS",
+            "CD",
+            "CB"
+        ]
+    },
+    {
+        "year": 2009,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "ArS",
+            "GS",
+            "WS",
+            "BCH",
+            "MS",
+            "FS",
+            "CD",
+            "CB"
+        ]
+    },
+    {
+        "year": 2021,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "ArS",
+            "GS",
+            "WS",
+            "BCH",
+            "KW",
+            "FS",
+            "CD",
+            "CB"
+        ]
+    },
+    {
+        "year": 2022,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "ArS",
+            "GS",
+            "WS",
+            "BCH",
+            "QS-W",
+            "KW-E",
+            "ScS-W",
+            "FS",
+            "CD",
+            "CB"
+        ]
+    },
+    {
+        "year": 2026,
+        "stops": [
+            "UBC",
+            "AR",
+            "SS",
+            "AS",
+            "McS",
+            "ArS",
+        ]
+    },
+]
