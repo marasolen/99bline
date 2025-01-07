@@ -1,0 +1,138 @@
+{
+    "UBCEx": {
+        "name": "UBC Exchange",
+        "position": 0
+    },
+    "UniB": {
+        "name": "University Blvd",
+        "position": 0.2
+    },
+    "AR": {
+        "name": "Allison Rd",
+        "position": 0.5
+    },
+    "SS": {
+        "name": "Sasamat St",
+        "position": 2.9
+    },
+    "W10": {
+        "name": "W 10 Ave",
+        "position": 4.7
+    },
+    "AS": {
+        "name": "Alma St",
+        "position": 4.8
+    },
+    "McS": {
+        "name": "Macdonald St",
+        "position": 6.1
+    },
+    "YewS": {
+        "name": "Yew St",
+        "position": 7
+    },
+    "ArS-W": {
+        "name": "Arbutus St",
+        "position": 7
+    },
+    "ArS-E": {
+        "name": "Arbutus St",
+        "position": 7.2
+    },
+    "GS": {
+        "name": "Granville St",
+        "position": 8.1
+    },
+    "GS-E": {
+        "name": "Granville St",
+        "position": 8.2
+    },
+    "WS": {
+        "name": "Willow St",
+        "position": 9.3
+    },
+    "HeaS": {
+        "name": "Heather St",
+        "position": 9.5
+    },
+    "BCH-W": {
+        "name": "Broadway - City Hall",
+        "position": 9.8
+    },
+    "BCH-E": {
+        "name": "Broadway - City Hall",
+        "position": 9.9
+    },
+    "QS": {
+        "name": "Quebec St",
+        "position": 10.7
+    },
+    "MS": {
+        "name": "Main St",
+        "position": 10.9
+    },
+    "KW": {
+        "name": "Kingsway St",
+        "position": 11
+    },
+    "ScS": {
+        "name": "Scotia St",
+        "position": 11.1
+    },
+    "FS": {
+        "name": "Fraser St",
+        "position": 11.8
+    },
+    "CD": {
+        "name": "Clark Dr",
+        "position": 12.6
+    },
+    "CB": {
+        "name": "Commercial - Broadway",
+        "position": 13.2
+    },
+    "NanS": {
+        "name": "Nanaimo St",
+        "position": 14.1
+    },
+    "PenS": {
+        "name": "Penticton St",
+        "position": 14.5
+    },
+    "RenS": {
+        "name": "Renfrew St",
+        "position": 15
+    },
+    "RupS": {
+        "name": "Rupert St",
+        "position": 15.8
+    },
+    "BD-W": {
+        "name": "Boundary Loop",
+        "position": 16.5
+    },
+    "BD-E": {
+        "name": "Boundary Rd",
+        "position": 16.7
+    },
+    "LH": {
+        "name": "Lougheed Highway",
+        "position": 16.7
+    },
+    "BM": {
+        "name": "Brentwood Mall",
+        "position": 18.3
+    },
+    "AuR": {
+        "name": "Austin Rd",
+        "position": 26
+    },
+    "GovS": {
+        "name": "Government St",
+        "position": 26
+    },
+    "LM": {
+        "name": "Lougheed Mall",
+        "position": 26.4
+    }
+}

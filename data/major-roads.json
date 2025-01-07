@@ -1,0 +1,66 @@
+[
+    {
+        "name": "UBC",
+        "position": 0
+    },
+    {
+        "name": "Sasamat St",
+        "position": 2.9
+    },
+    {
+        "name": "Alma St",
+        "position": 4.75
+    },
+    {
+        "name": "Macdonald St",
+        "position": 6
+    },
+    {
+        "name": "Arbutus St",
+        "position": 7.1
+    },
+    {
+        "name": "Granville St",
+        "position": 8.2
+    },
+    {
+        "name": "Broadway City Hall",
+        "position": 9.9
+    },
+    {
+        "name": "Main St",
+        "position": 11
+    },
+    {
+        "name": "Fraser St",
+        "position": 11.8
+    },
+    {
+        "name": "Commercial - Broadway",
+        "position": 13.2
+    },
+    {
+        "name": "Nanaimo St",
+        "position": 14.1
+    },
+    {
+        "name": "Renfrew St",
+        "position": 15
+    },
+    {
+        "name": "Rupert St",
+        "position": 15.8
+    },
+    {
+        "name": "Boundary Rd",
+        "position": 16.7
+    },
+    {
+        "name": "Brentwood Mall",
+        "position": 18.2
+    },
+    {
+        "name": "Lougheed Mall",
+        "position": 26.4
+    }
+]

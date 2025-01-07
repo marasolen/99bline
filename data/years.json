@@ -1,0 +1,181 @@
+[
+    {
+        "year": 1996,
+        "stops": [
+            ["UBCEx!", "UBCEx!"],
+            ["UniB!", "AR!"],
+            ["W10!", "AS!"],
+            ["McS!", "McS!"],
+            ["GS!", "GS-E!"],
+            ["WS!", "HeaS!"],
+            ["BCH-W!", "BCH-E!"],
+            ["MS!", "KW!"],
+            ["CB!", "CB!"],
+            0.8,
+            ["NanS!", "NanS!"],
+            ["PenS!", "PenS!"],
+            ["RenS!", "RenS!"],
+            ["RupS!", "RupS!"],
+            ["BD-W!", "BD-E!"],
+            ["BM!", "BM!"],
+            0.6,
+            ["AuR!", "GovS!"],
+            ["LM!", "LM!"]
+        ]
+    },
+    {
+        "year": 1997,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS!", "SS!"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["GS", "GS-E"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["MS", "KW"],
+            ["CD!", "CD!"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "BD-E"],
+            ["BM", "BM"],
+            0.6,
+            ["AuR", "GovS"],
+            ["LM", "LM"]
+        ]
+    },
+    {
+        "year": 2002,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["GS", "GS-E"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["MS", "KW"],
+            ["CD", "CD"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "LH"]
+        ]
+    },
+    {
+        "year": 2009,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["ArS-W", "ArS-E"],
+            ["GS", "GS-E"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["MS", "KW"],
+            ["FS!", "FS!"],
+            ["CD", "CD"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "LH"]
+        ]
+    },
+    {
+        "year": 2020,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["ArS-W", "ArS-E"],
+            ["GS", "GS*"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["MS", "KW"],
+            ["FS", "FS"],
+            ["CD", "CD"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "LH"]
+        ]
+    },
+    {
+        "year": 2021,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["ArS-W", "YewS*"],
+            ["GS", "GS"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["KW*", "KW"],
+            ["FS", "FS"],
+            ["CD", "CD"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "LH"]
+        ]
+    },
+    {
+        "year": 2022,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["ArS-W", "YewS"],
+            ["GS", "GS"],
+            ["WS", "HeaS"],
+            ["BCH-W", "BCH-E"],
+            ["QS*", "ScS*", "KW"],
+            ["FS", "FS"],
+            ["CD", "CD"],
+            ["CB", "CB"],
+            0.8,
+            ["NanS", "NanS"],
+            ["PenS", "PenS"],
+            ["RenS", "RenS"],
+            ["RupS", "RupS"],
+            ["BD-W", "LH"]
+        ]
+    },
+    {
+        "year": 2026,
+        "stops": [
+            ["UBCEx", "UBCEx"],
+            ["UniB", "AR"],
+            ["SS", "SS"],
+            ["W10", "AS"],
+            ["McS", "McS"],
+            ["ArS-E", "ArS-E"]
+        ]
+    }
+]
