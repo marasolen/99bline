@@ -14,6 +14,8 @@ const resizeAndRender = () => {
 
     d3.selectAll("text").attr("font-size", function() { return d3.select(this).attr("text-multiplier") * 0.012 * document.getElementById("visualization").clientWidth })
     d3.selectAll("tspan").attr("font-size", function() { return d3.select(this).attr("text-multiplier") * 0.012 * document.getElementById("visualization").clientWidth })
+
+    d3.select("#disclaimer").style("display", +d3.select("svg").attr("width") > window.innerWidth ? "block" : "none");
 };
 
 window.onresize = resizeAndRender;
@@ -26,7 +28,7 @@ const renderVisualization = (roads, years) => {
         top: 0.1 * containerHeight,
         right: 0 * containerWidth,
         bottom: 0.18 * containerHeight,
-        left: 0.04 * containerWidth
+        left: 0.07 * containerWidth
     };
 
     const width = containerWidth - (margin.right + margin.left);
@@ -34,7 +36,7 @@ const renderVisualization = (roads, years) => {
 
     const timelineWidth = width * 0.01;
     const arrowWidth = width * 0.09;
-    const routeWidth = width * 0.85;
+    const routeWidth = width * 0.87;
 
     const xValue = d => d.position;
     const xScale = d3.scaleLinear().domain([0, 26.7]).range([margin.left, routeWidth - margin.left]);
